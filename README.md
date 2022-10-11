@@ -1,1 +1,3 @@
 # MiniProject-2
+
+For Miniproject #2, I made a website where you travel through a strange world where there is a city of apes and a country of mexican-themed animals. This leaves the woman the user represents very confused, only to eventually realize it was all a dream. She is still tired after waking up so she falls right back to sleep and relives the same dream over and over again as the cycle repeats.
