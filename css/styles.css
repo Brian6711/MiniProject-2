@@ -1,0 +1,36 @@
+body{
+    background-color: lawngreen;
+
+}
+a {
+    font-size: xx-large;
+}
+
+h1 {
+    font-size: 500%;
+    color: crimson;
+    text-align: center;
+}
+
+
+
+
+
+#imageGallery{
+display:grid;
+grid-template-columns: 40% 15% 55%;
+align-items: center;
+justify-items: center;
+}
+
+#PortalImg{
+    height: 75%;
+    width: 75%;
+    align-items: center;
+}
+
+#CrabImg{
+    height: 75%;
+    width: 145%;
+    align-items: center;
+}
